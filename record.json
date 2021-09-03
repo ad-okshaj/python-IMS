@@ -1,0 +1,212 @@
+{
+ "101": {
+  "Name": "Noodles",
+  "Category": "Food",
+  "Expiry": "2022-03-22",
+  "Quantity": 10,
+  "Price": 20
+ },
+ "102": {
+  "Name": "Chips",
+  "Category": "Food",
+  "Expiry": "2022-01-01",
+  "Quantity": 10,
+  "Price": 5
+ },
+ "103": {
+  "Name": "Bread",
+  "Category": "Food",
+  "Expiry": "2021-09-08",
+  "Quantity": 10,
+  "Price": 30
+ },
+ "104": {
+  "Name": "Eggs",
+  "Category": "Food",
+  "Expiry": "2021-10-03",
+  "Quantity": 10,
+  "Price": 5
+ },
+ "105": {
+  "Name": "Chocolate",
+  "Category": "Food",
+  "Expiry": "2022-06-30",
+  "Quantity": 10,
+  "Price": 10
+ },
+ "106": {
+  "Name": "Fruit Juice",
+  "Category": "Food",
+  "Expiry": "2022-03-02",
+  "Quantity": 10,
+  "Price": 15
+ },
+ "107": {
+  "Name": "Soft Drink",
+  "Category": "Food",
+  "Expiry": "2022-06-30",
+  "Quantity": 10,
+  "Price": 10
+ },
+ "108": {
+  "Name": "Salt",
+  "Category": "Food",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 20
+ },
+ "109": {
+  "Name": "Sugar",
+  "Category": "Food",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 40
+ },
+ "110": {
+  "Name": "Rice",
+  "Category": "Food",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 35
+ },
+ "201": {
+  "Name": "Toothpaste",
+  "Category": "Care",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 60
+ },
+ "202": {
+  "Name": "Toothbrush",
+  "Category": "Care",
+  "Expiry": "2031-09-01",
+  "Quantity": 10,
+  "Price": 30
+ },
+ "203": {
+  "Name": "Mouthwash",
+  "Category": "Care",
+  "Expiry": "2024-08-28",
+  "Quantity": 10,
+  "Price": 200
+ },
+ "204": {
+  "Name": "Soap",
+  "Category": "Care",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 30
+ },
+ "205": {
+  "Name": "Shampoo",
+  "Category": "Care",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 20
+ },
+ "206": {
+  "Name": "Dettol",
+  "Category": "Care",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 80
+ },
+ "207": {
+  "Name": "Washing Powder",
+  "Category": "Care",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 55
+ },
+ "208": {
+  "Name": "Face Cream",
+  "Category": "Care",
+  "Expiry": "2023-08-04",
+  "Quantity": 10,
+  "Price": 60
+ },
+ "209": {
+  "Name": "Hand Sanitizer",
+  "Category": "Care",
+  "Expiry": "2024-05-30",
+  "Quantity": 10,
+  "Price": 50
+ },
+ "210": {
+  "Name": "Deodorant",
+  "Category": "Care",
+  "Expiry": "2024-05-30",
+  "Quantity": 10,
+  "Price": 100
+ },
+ "301": {
+  "Name": "Butter",
+  "Category": "Frozen",
+  "Expiry": "2021-12-02",
+  "Quantity": 10,
+  "Price": 45
+ },
+ "302": {
+  "Name": "Paneer",
+  "Category": "Frozen",
+  "Expiry": "2022-03-02",
+  "Quantity": 10,
+  "Price": 80
+ },
+ "303": {
+  "Name": "Ice Cream",
+  "Category": "Frozen",
+  "Expiry": "2021-12-02",
+  "Quantity": 10,
+  "Price": 100
+ },
+ "304": {
+  "Name": "Chicken",
+  "Category": "Frozen",
+  "Expiry": "2022-06-30",
+  "Quantity": 10,
+  "Price": 200
+ },
+ "305": {
+  "Name": "Fish",
+  "Category": "Frozen",
+  "Expiry": "2022-05-01",
+  "Quantity": 10,
+  "Price": 100
+ },
+ "306": {
+  "Name": "Corn",
+  "Category": "Frozen",
+  "Expiry": "2022-09-03",
+  "Quantity": 10,
+  "Price": 160
+ },
+ "307": {
+  "Name": "Cheese",
+  "Category": "Frozen",
+  "Expiry": "2022-05-31",
+  "Quantity": 10,
+  "Price": 50
+ },
+ "308": {
+  "Name": "Pizza",
+  "Category": "Frozen",
+  "Expiry": "2022-03-02",
+  "Quantity": 10,
+  "Price": 110
+ },
+ "309": {
+  "Name": "Samosa",
+  "Category": "Frozen",
+  "Expiry": "2022-05-11",
+  "Quantity": 10,
+  "Price": 170
+ },
+ "310": {
+  "Name": "Seafood",
+  "Category": "Frozen",
+  "Expiry": "2022-03-22",
+  "Quantity": 10,
+  "Price": 300
+ }
+}
