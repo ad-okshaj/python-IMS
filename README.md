@@ -1,4 +1,4 @@
-# ETG Python ML &amp; AI Internship Assignment [Mini Project].
+# ETG Python ML &amp; AI Internship [Assignment].
 
 Repo created to submit 'Inventory Management System' assignment/mini project code to Mr. Ashish Jangra of ETG [Elite Techno Groups].<br />
 Project part of ETG Python ML & AI Internship.<br />
